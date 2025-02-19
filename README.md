@@ -81,7 +81,7 @@ nmake  # (Windows, Visual Studio 사용 시)
 ## 🛠 개발 환경 및 사용 라이브러리
 - **프로그래밍 언어:** C++
 - **GUI 프레임워크:** Qt (Core, GUI, Widgets)
-- **이미지 처리:** OpenCV (옵션)
+- **이미지 처리:** 직접구현(kfc.cpp, kfc.h)
 
 
 
